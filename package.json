@@ -1,0 +1,15 @@
+{
+  "name": "r-cheese",
+  "version": "1.0.0",
+  "description": "A functional reactive library for Node.js (designed as companion code for the book Reactive Programming with Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactive",
+    "functional"
+  ],
+  "author": "Fernando Doglio <deleteman@gmail.com>",
+  "license": "MIT"
+}
